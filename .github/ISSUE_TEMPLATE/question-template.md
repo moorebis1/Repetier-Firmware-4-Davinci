@@ -8,3 +8,11 @@ assignees: ''
 ---
 
 What is your question ?
+
+_____ 
+  
+Programmer Types
+ 
+Question: What programmer type should be used when flashing? AVR ISP? AVR ISP mkII? and also, I got the message "bossac.exe: extra arguments found", what can i do to fix this?'
+  
+_____
